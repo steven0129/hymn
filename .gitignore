@@ -12,3 +12,6 @@ dist
 
 # Backpack build
 build
+
+# Config file
+package-lock.json
